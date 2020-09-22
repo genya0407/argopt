@@ -16,3 +16,4 @@ proc-macro = true
 darling = "0.10.2"
 quote = "1.0.7"
 syn = { version = "1.0.39", features = ["full", "extra-traits"] }
+structopt = "0.3.17"
